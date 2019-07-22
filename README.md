@@ -9,3 +9,4 @@ Two websites based on this template: [here](http://andreacerulli.github.io/) and
 
 
 If you are using it drop me a line!
+I am here to help
